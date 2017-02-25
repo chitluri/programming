@@ -7,7 +7,7 @@ public class Solution {
             if(xBit != yBit){
                 hammingDistance++;
             }
-            x = x >>> 1;
+            x = x >>> 1; // >>> is unsigned Right Shift
             y = y >>> 1;
         }
         return hammingDistance;
