@@ -1,2 +1,2 @@
 # programming
-Solutions for different programming challenges.
+Worked out solutions for different programming challenges.
